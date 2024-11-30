@@ -28,7 +28,44 @@ body {
 .titlepoppins {
     font-family: 'Poppins', sans-serif;
     font-size: 25px;
+    
+    
+    
 }
+
+.textpoppins {
+    font-family: 'Poppins', sans-serif;
+    font-size: 15px;
+    
+}
+
+#textoIndex{
+    text-align: justify;
+    padding-right: 60px;
+    padding-left: 60px;
+
+}
+.text{
+    font-family: 'Poppins', sans-serif;
+    font-size: 25px;
+    margin-right: 500px;
+    margin-top: 50px;
+}
+
+#contenedor2{
+    display: flex;
+}
+
+.imagen{
+    height: 200px;
+    width: 200px;
+    border-radius: 350px;
+    margin-right: 60px;
+}
+
+
+
+
 
 a {
     text-decoration: none;
@@ -45,7 +82,7 @@ a:hover {
 }
 
 #aInicio {
-    margin-left: 355px;
+    margin-left:  530px;
     background-color: #6fc942;
     border-color: white;
     border-style: solid;
@@ -62,4 +99,18 @@ a:hover {
     height: 200vh;
     margin-top: 10px;
     border-radius: 1%;
+}
+
+#contenedor3{
+    text-align: justify;
+    padding-right: 60px;
+    padding-left: 50px;
+
+}
+
+.tex{
+    font-family: 'Poppins', sans-serif;
+    font-size: 25px;
+    text-align: center;
+    margin-top: 50px;
 }

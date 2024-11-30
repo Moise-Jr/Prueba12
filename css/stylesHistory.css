@@ -49,7 +49,7 @@ a:hover {
 }
 
 #aInicio {
-    margin-left: 355px;
+    margin-left: 540px;
 }
 
 #aPrincipal {
@@ -94,3 +94,24 @@ li {
     border-width: 1px;
     border-color: gray;
   }
+
+  footer{
+    background-color: #77B55F;
+    width: 100%;
+    display: flex; 
+    padding-left: 10px;
+    margin-top: 10px;
+}
+
+#redesfooter{
+    display: flex;
+    flex-direction: column;
+    padding-left: 660px;
+    padding-top: 150px;
+    text-align: center;
+}
+
+#redesfooter p{
+    margin-top: 5px;
+    margin-bottom: -5px;
+}
